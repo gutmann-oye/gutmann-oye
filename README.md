@@ -12,9 +12,9 @@ Results-driven and insightful analyst with proven experience and a strong unders
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdePhil&theme=dark)](https://git.io/streak-stats) -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyebanjiyusuf&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gutmann-oye&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebanjiyusuf3&layout=compact)](https://github.com/oyebanjiyusuf3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutmann-oye&layout=compact)](https://github.com/gutmann-oye/github-readme-stats)
 
 Here are some ideas to get you started:
 
