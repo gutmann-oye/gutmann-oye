@@ -9,7 +9,7 @@ Results-driven and insightful analyst with proven experience and a strong unders
 ![Uthman's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutmann-oye&show_icons=true&theme=radical)
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdePhil&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdePhil&theme=dark)](https://git.io/streak-stats)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gutmann-oye&theme=dark)](https://git.io/streak-stats)
