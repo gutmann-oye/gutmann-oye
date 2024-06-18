@@ -1,5 +1,5 @@
 ## Hi there 👋
-##
+## I am Uthman Oyebanji, a Data Analy
 
 I am **Uthman Oyebanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
